@@ -1,0 +1,2 @@
+D:\Новая папка\department\deparment\deparment\bin\Debug\deparment.exe.config
+D:\git\Test\department\deparment\deparment\bin\Debug\deparment.exe.config
