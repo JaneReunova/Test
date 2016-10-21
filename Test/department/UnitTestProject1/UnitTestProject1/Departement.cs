@@ -12,12 +12,21 @@ namespace UnitTestProject1
 
         internal int size()
         {
-            throw new NotImplementedException();
+            return Employeds.Count;
         }
 
-        internal static void Add(Employed employed)
+        public void Add(Employed employed)
         {
-            throw new NotImplementedException();
+
         }
+
+        internal void Move(Employed employed)
+        {
+            employed.setPosition("123");
+            employed.setSalary(15000);
+           
+
+        }
+            
     }
 }

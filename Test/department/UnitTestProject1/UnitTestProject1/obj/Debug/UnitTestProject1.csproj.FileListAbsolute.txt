@@ -5,3 +5,10 @@ D:\Новая папка\department\UnitTestProject1\UnitTestProject1\bin\Debug\
 D:\Новая папка\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 D:\Новая папка\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\Новая папка\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

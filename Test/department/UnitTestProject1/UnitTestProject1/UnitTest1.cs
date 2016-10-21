@@ -53,8 +53,26 @@ namespace UnitTestProject1
             employed.setPerson(VPupkin);
             employed.setSalary(10000);
             employed.setPosition("Dev");
-            Departement.Add(employed);
             
+        }
+        [TestMethod]
+        public void TestMoveEmployed()
+        {
+            Departement Otdel = new Departement();
+            Assert.IsNotNull(Otdel.Employeds);
+            Assert.AreEqual(0, Otdel.size());
+
+            Person VPupkin = new Person("Vasya", "Pupkin", "male", 22);
+            Employed employed = new Employed();
+            employed.setPerson(VPupkin);
+            employed.setSalary(10000);
+            employed.setPosition("Dev");
+            Otdel.Add(employed);
+            Otdel.Move(employed);
+            Assert.AreEqual("123", employed.position);
+            Assert.AreEqual(15000, employed.selary);
+            
+        
         }
     }
 }
