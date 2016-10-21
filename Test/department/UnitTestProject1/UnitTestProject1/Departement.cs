@@ -22,6 +22,15 @@ namespace UnitTestProject1
 
         internal void Move(Employed employed)
         {
+            //throw new NotImplementedException();
+        }
+
+        public void Remove(Employed employed)
+        {
+            Employeds.Remove(employed);
+            employed.setSalary(0);
+            employed.setPosition(" ");
+
             employed.setPosition("123");
             employed.setSalary(15000);
            

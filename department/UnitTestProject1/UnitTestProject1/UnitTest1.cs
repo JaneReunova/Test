@@ -53,46 +53,10 @@ namespace UnitTestProject1
             employed.setPerson(VPupkin);
             employed.setSalary(10000);
             employed.setPosition("Dev");
-            
-        }
-        [TestMethod]
-        public void TestMoveEmployed()
-        {
-            Departement Otdel = new Departement();
-            Assert.IsNotNull(Otdel.Employeds);
-            Assert.AreEqual(0, Otdel.size());
-
-            Person VPupkin = new Person("Vasya", "Pupkin", "male", 22);
-            Employed employed = new Employed();
-            employed.setPerson(VPupkin);
-            employed.setSalary(10000);
-            employed.setPosition("Dev");
             Otdel.Add(employed);
-            Otdel.Move(employed);
-            Assert.AreEqual("123", employed.position);
-            Assert.AreEqual(15000, employed.selary);
-            
-        
-        }
-        [TestMethod]
-        public void TestRemoveEmployed()
-        {
-            Departement Otdel = new Departement();
-            Assert.IsNotNull(Otdel.Employeds);
-            Assert.AreEqual(0, Otdel.size());
-
-            Person VPupkin = new Person("Vasya", "Pupkin", "male", 22);
-            Employed employed = new Employed();
-            employed.setPerson(VPupkin);
-            employed.setSalary(10000);
-            employed.setPosition("Dev");
-            Departement.Add(employed);
-
-            Otdel.Remove(employed);
-            Assert.AreEqual(0, Otdel.size());
-            Assert.AreEqual(0, employed.selary);
-            Assert.AreEqual( " ", employed.position);
-
+            Assert.AreEqual(1, Otdel.size());
+            Assert.AreEqual(100010, employed.selary);
+            Assert.AreEqual("Dev1", employed.position);
         }
 
     }
