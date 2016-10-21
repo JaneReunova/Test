@@ -56,5 +56,26 @@ namespace UnitTestProject1
             Departement.Add(employed);
             
         }
+        [TestMethod]
+        public void TestRemoveEmployed()
+        {
+            Departement Otdel = new Departement();
+            Assert.IsNotNull(Otdel.Employeds);
+            Assert.AreEqual(0, Otdel.size());
+
+            Person VPupkin = new Person("Vasya", "Pupkin", "male", 22);
+            Employed employed = new Employed();
+            employed.setPerson(VPupkin);
+            employed.setSalary(10000);
+            employed.setPosition("Dev");
+            Departement.Add(employed);
+
+            Otdel.Remove(employed);
+            Assert.AreEqual(0, Otdel.size());
+            Assert.AreEqual(0, employed.selary);
+            Assert.AreEqual( " ", employed.position);
+
+        }
+
     }
 }

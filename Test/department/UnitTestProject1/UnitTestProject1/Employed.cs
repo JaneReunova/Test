@@ -6,7 +6,7 @@ namespace UnitTestProject1
     {
         public int selary { get; private set; }
 
-        public object position { get; private set; }
+        public string position { get; private set; }
 
         internal void setPerson(Person vPupkin)
         {
