@@ -23,6 +23,9 @@ namespace UnitTestProject1
         internal void Move(Employed employed)
         {
             //throw new NotImplementedException();
+
+            employed.setPosition("123");
+            employed.setSalary(15000);
         }
 
         public void Remove(Employed employed)
@@ -31,8 +34,6 @@ namespace UnitTestProject1
             employed.setSalary(0);
             employed.setPosition(" ");
 
-            employed.setPosition("123");
-            employed.setSalary(15000);
            
 
         }

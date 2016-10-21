@@ -86,7 +86,7 @@ namespace UnitTestProject1
             employed.setPerson(VPupkin);
             employed.setSalary(10000);
             employed.setPosition("Dev");
-            Departement.Add(employed);
+            //departement.Add(employed);
 
             Otdel.Remove(employed);
             Assert.AreEqual(0, Otdel.size());
