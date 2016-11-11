@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UnitTestProject1
+namespace view.cs
 {
-    public partial class K1 : Form
+    public partial class Form1 : Form
     {
-        public K1()
+        public Form1()
         {
             InitializeComponent();
         }
