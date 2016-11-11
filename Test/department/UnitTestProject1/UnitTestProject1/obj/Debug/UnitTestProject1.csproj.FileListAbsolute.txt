@@ -12,3 +12,10 @@ C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\U
 C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
 C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

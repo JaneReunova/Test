@@ -1,2 +1,3 @@
 D:\Новая папка\department\deparment\deparment\bin\Debug\deparment.exe.config
 C:\Users\Анастасия Павловна\Source\Repos\Test\Test\department\deparment\deparment\bin\Debug\deparment.exe.config
+C:\Users\34-2\Source\Repos\Test2\Test\department\deparment\deparment\bin\Debug\deparment.exe.config

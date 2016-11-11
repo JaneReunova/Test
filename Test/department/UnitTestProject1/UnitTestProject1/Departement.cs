@@ -17,7 +17,9 @@ namespace UnitTestProject1
 
         public void Add(Employed employed)
         {
-
+            this.Employeds.Add(employed);
+            employed.setPosition("Dev1");
+            employed.setSalary(100010);
         }
 
         internal void Move(Employed employed)
