@@ -7,3 +7,6 @@ D:\Документы студентов\П-33\Тест\Test\department\UnitTest
 D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.csproj.GenerateResource.Cache
 D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.exe
 D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.pdb
+C:\Users\34-2\Source\Repos\Test5\Test\department\UnitTestProject1\view.cs\bin\Debug\view.cs.exe.config
+C:\Users\34-2\Source\Repos\Test5\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.exe
+C:\Users\34-2\Source\Repos\Test5\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.pdb
