@@ -1,0 +1,9 @@
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\bin\Debug\view.cs.exe.config
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\bin\Debug\view.cs.exe
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\bin\Debug\view.cs.pdb
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.csprojResolveAssemblyReference.cache
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.Form1.resources
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.Properties.Resources.resources
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.csproj.GenerateResource.Cache
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.exe
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\view.cs\obj\Debug\view.cs.pdb

@@ -19,3 +19,10 @@ C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProjec
 C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\34-2\Source\Repos\Test2\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Документы студентов\П-33\Тест\Test\department\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
